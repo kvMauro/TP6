@@ -1,0 +1,21 @@
+# Ignorar la carpeta .vscode (configuración de VS Code)
+.vscode/
+
+# Ignorar la carpeta bin (archivos compilados)
+bin/
+
+# Ignorar la carpeta lib (dependencias o bibliotecas externas)
+lib/
+
+# Ignorar archivos temporales de compilación o caché
+*.class
+*.log
+*.tmp
+
+# Ignorar archivos de configuración de Java
+*.iml
+
+# Ignorar archivos generados por IDEs u otras herramientas
+.idea/
+.DS_Store
+Thumbs.db
